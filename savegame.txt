@@ -1,0 +1,9 @@
+Day: 1
+Energy: 8
+Money: 14
+Bag: POT,1#
+None;None;None;None;None
+None;None;None;None;None
+None;None;House;['POT', 3];None
+None;None;None;None;None
+None;None;None;None;None
