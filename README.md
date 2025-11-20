@@ -144,6 +144,38 @@ Implemented according to assignment requirements (page 11–12):
 
 ## 📂 Project Structure
 
+SundropFarm/
 │── S10267655E_Assignment.py # Main game file
-│── savefile.txt # Auto-generated when saving
+│── savegame.txt # Auto-generated when saving
 │── README.md # Project documentation
+
+
+---
+
+## 🛠️ Technologies Used
+
+- Python (Functions, loops, conditionals, validation)
+- File I/O (Reading & writing save files)
+- Nested lists for grid management
+- Procedural programming following PRG1 standards
+
+---
+
+## 🧑‍🏫 Learning Outcomes
+
+Through this project, I demonstrated:
+
+- Designing a complete program from a detailed problem statement  
+- Managing complex game logic using functions  
+- Effective use of loops, conditionals, and nested data structures  
+- Building a save/load feature with file handling  
+- Ensuring program reliability with tight validation  
+- Applying modular programming and clean code practices  
+
+---
+
+## 🎯 Conclusion
+
+This project reflects my ability to design and build a full working application based on formal requirements.  
+It showcases skills in **programming logic**, **problem solving**, and **game system design**—all core to my growth as a developer.
+
